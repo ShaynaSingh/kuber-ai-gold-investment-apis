@@ -4,10 +4,6 @@
 
 A complete implementation of Kuber AI workflow for gold investments with two main APIs that detect gold investment queries, provide intelligent responses, and handle digital gold purchases.
 
-## 🚀 Live Demo
-
-
-
 ## 📊 Features
 
 - ✅ **Smart Gold Query Detection** - AI detects gold investment related questions
@@ -182,4 +178,5 @@ For support and questions:
 
 
 ⭐ **Star this repo if it helped you!**
+
 
