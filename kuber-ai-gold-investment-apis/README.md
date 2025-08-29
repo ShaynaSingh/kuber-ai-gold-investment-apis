@@ -1,6 +1,6 @@
 # 🪙 Kuber AI Gold Investment APIs
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 A complete implementation of Kuber AI workflow for gold investments with two main APIs that detect gold investment queries, provide intelligent responses, and handle digital gold purchases.
 
@@ -126,35 +126,6 @@ python app.py
 - Local: `http://localhost:5000`
 - API Documentation: `http://localhost:5000/`
 
-## 🌐 Deployment
-
-### Heroku (Recommended)
-```bash
-# Install Heroku CLI
-npm install -g heroku
-
-# Login to Heroku
-heroku login
-
-# Create app
-heroku create your-app-name
-
-# Deploy
-git push heroku main
-
-# Open app
-heroku open
-```
-
-### Railway
-1. Connect your GitHub repository to [Railway](https://railway.app)
-2. Configure build settings
-3. Deploy automatically
-
-### Render
-1. Connect GitHub to [Render](https://render.com)
-2. Set build command: `pip install -r requirements.txt`
-3. Set start command: `gunicorn app:app`
 
 ## 🗄️ Database Schema
 
@@ -208,5 +179,6 @@ For support and questions:
 - Email: support@example.com
 
 ---
+
 
 ⭐ **Star this repo if it helped you!**
