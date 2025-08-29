@@ -6,7 +6,7 @@ A complete implementation of Kuber AI workflow for gold investments with two mai
 
 ## 🚀 Live Demo
 
-**Base URL:** `https://your-app-name.herokuapp.com`
+
 
 ## 📊 Features
 
@@ -182,3 +182,4 @@ For support and questions:
 
 
 ⭐ **Star this repo if it helped you!**
+
