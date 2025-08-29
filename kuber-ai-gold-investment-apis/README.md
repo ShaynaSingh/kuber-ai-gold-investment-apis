@@ -165,18 +165,13 @@ python app.py
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
+Shayna Singh
 
-**Parag Kumar** - Chief Technologist at Simplify Money
 
-## 📞 Support
-
-For support and questions:
-- Create an issue on GitHub
-- Email: support@example.com
 
 ---
 
 
-⭐ **Star this repo if it helped you!**
+
 
 
